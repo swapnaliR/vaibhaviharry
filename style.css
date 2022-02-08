@@ -1,0 +1,38 @@
+body{
+    background-image: url("https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77700606102.jpg");
+    background-repeat: no-repeat;
+    background-size:1100px 580px ; 
+    text-align: center;
+}
+#title{
+    color: rgb(255, 30, 173);
+    border-style: solid;
+    text-decoration-style: solid;
+    text-shadow: indigo;
+    background-color: khaki;
+}
+
+#play{
+    width: 400px;
+    height: 100px;
+    margin-top: 320px;
+    background-color: khaki;
+    font-family:cursive;
+    font-size: 50px;
+    font-weight: bold;
+}
+#p1{
+  width: 150px;
+padding: 10px;
+ margin-top: 350px;
+}
+#p2{
+    width: 150px;
+    padding: 10px;
+   margin-top: 50px;
+  }
+  #p3{
+    width: 150px;
+    padding: 10px;
+   margin-top: 50px;
+  }
